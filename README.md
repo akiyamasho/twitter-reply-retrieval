@@ -1,5 +1,10 @@
 # Twitter Reply Retrieval
 
+### Requirements
+
+- [Twitter Developer](https://developer.twitter.com/) Account
+- Bearer Token from Twitter Dev App
+
 ### Setup
 
 1. Install the requirements
